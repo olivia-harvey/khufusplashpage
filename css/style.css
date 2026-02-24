@@ -394,12 +394,12 @@ img{
 
 .slick-prev {
     left: 25px;
-    background: var(--black-color) url('https://www.blumenthalarts.org/assets/img/arrow-left-dc84b4ded9.png') no-repeat center center !important;
+    background: var(--black-color) url('https://mcusercontent.com/6e0cf7b74e0451dc3fc24409b/images/b02d9e23-064c-4481-207b-5e7f1016019e.png') no-repeat center center !important;
 }
 
 .slick-next {
     right: 25px;
-    background: var(--black-color) url('https://www.blumenthalarts.org/assets/img/arrow-right-2a29191081.png') no-repeat center center !important;
+    background: var(--black-color) url('https://mcusercontent.com/6e0cf7b74e0451dc3fc24409b/images/153088ca-e1bf-d149-5f53-4313ffe9a3a6.png') no-repeat center center !important;
 }
 
 .slick-prev:before, .slick-next:before{
@@ -876,4 +876,5 @@ img{
   background-color: initial;
 
 }
+
 
