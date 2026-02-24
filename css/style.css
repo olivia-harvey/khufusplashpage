@@ -258,7 +258,7 @@ img{
 }
 
 .banner-part{
-    background: url('../images/banner.jpg') no-repeat center center;
+    background: url('https://www.blumenthalarts.org/assets/img/banner-b22c7f1adf.jpgg') no-repeat center center;
     background-size: cover;
 }
 
@@ -443,7 +443,7 @@ img{
 
 .about-ex-bg{
     height: 807px;
-    background: url('../images/About_Image_Nile.jpg') no-repeat center center;
+    background: url('https://www.blumenthalarts.org/assets/img/About_Image_Nile-2c2543d512.jpg') no-repeat center center;
     background-size: cover;
     margin-top: 42px;
     position: relative;
@@ -529,7 +529,7 @@ img{
 }
 
 .group-booking-part{
-    background: url('../images/GraphicElements_Bkg_Pattern.jpg') no-repeat center center;
+    background: url('https://www.blumenthalarts.org/assets/img/GraphicElements_Bkg_Pattern-484fe02b5b.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -721,7 +721,7 @@ img{
 }
 
 .logo-listing-part {
-    background: url('../images/GraphicElements_Bkg_Pattern.jpg') no-repeat center center;
+    background: url('https://www.blumenthalarts.org/assets/img/GraphicElements_Bkg_Pattern-484fe02b5b.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -876,3 +876,4 @@ img{
   background-color: initial;
 
 }
+
