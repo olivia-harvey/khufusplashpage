@@ -1,0 +1,619 @@
+@media(min-width: 1850.50px){
+	.container{
+		max-width: 1820px;
+	}
+}
+
+@media(max-width: 2000.50px){
+	.faq-list-part .row {
+    	margin: 0 -40px;
+	}
+
+	.faq-list-part .col-12 {
+    	padding: 0 40px;
+	}
+}
+
+@media(max-width: 1750.50px){
+	body{
+		font-size: 20px;
+		line-height: 24px;
+	}
+
+	h1{
+	    font-size: 55px;
+	    line-height: 55px;
+	}
+
+	h2{
+	    font-size: 45px;
+	    line-height: 45px;
+	}
+
+	h3{
+	    font-size: 35px;
+	    line-height: 45px;
+	}
+
+	h4{
+	    font-size: 30px;
+	    line-height: 30px;
+	    font-weight: normal;
+	}
+
+	h5{
+	    font-size: 27px;
+	    line-height: 40px;
+	}
+
+	h6{
+	    font-size: 22px;
+	    line-height: 32px;
+	}
+
+	.header-part {
+	    font-size: 18px;
+	    line-height: 24px;
+	}
+
+	.btn-menu a {
+	    padding: 0 25px;
+	    font-size: 20px;
+	    height: 42px;
+	    line-height: 45px;
+	}
+
+	.theme-btn {
+	    padding: 0 25px;
+	    font-size: 20px;
+	    height: 65px;
+	    line-height: 70px;
+	}
+
+	.review-slider-box{
+		margin: 0 25px;
+	}
+
+	.slick-prev{
+		left: 5px;
+	}
+
+	.slick-next{
+		right: 5px;
+	}
+
+	.group-booking-left {
+	    max-width: 100%;
+	}
+
+	.cat-info-inner{
+		font-size: 24px;
+		line-height: 34px;
+	}
+
+	.review-slider-box{
+		line-height: 30px;
+	}
+
+	.map-right h4{
+		line-height: 42px;
+	}
+
+	.single-testimoninal-inner h4 , .group-booking-left h5{
+	    font-size: 30px;
+	    line-height: 40px;
+	}
+
+	.more-info-box{
+		margin-top: 40px;
+	}
+
+	.more-info-box{
+		line-height: 30px;
+	}
+
+	.faq-title-inner h5 {
+	    font-size: 32px;
+	    line-height: 48px;
+	    margin-bottom: 24px;
+	}
+
+	.accordion-button {
+	    font-size: 28px;
+	    line-height: 38px;
+	}
+
+	.accordion-body {
+	    font-size: 20px;
+	    line-height: 30px;
+	}
+
+	.logo-listing-inner .logo-group-wrap {
+	    font-size: 34px;
+	    line-height: 50px;
+	}
+
+	.about-ex-bg-info {
+	    max-width: 642px;
+	}
+
+	.group-booking-right{
+		padding: 0 50px;
+	}
+}
+
+@media(max-width: 1400.50px){
+	.banner-info h5 {
+	    margin: 27px 0 40px 0;
+	}
+}
+
+@media(max-width: 1200.50px){
+	body{
+		font-size: 18px;
+		line-height: 24px;
+	}
+
+	h1{
+	    font-size: 45px;
+	    line-height: 45px;
+	}
+
+	h2{
+	    font-size: 35px;
+	    line-height: 35px;
+	}
+
+	h3{
+	    font-size: 30px;
+	    line-height: 40px;
+	}
+
+	h4{
+	    font-size: 26px;
+	    line-height: 26px;
+	    font-weight: normal;
+	}
+
+	h5{
+	    font-size: 22px;
+	    line-height: 32px;
+	}
+
+	h6{
+	    font-size: 20px;
+	    line-height: 30px;
+	}
+
+	.lg-logo-main img{
+		max-width: 250px;
+	}
+
+	.banner-info h4 {
+	    font-size: 30px;
+	    line-height: 36px;
+	    margin: 0 0 10px 0;
+	}
+
+	.banner-info h6 {
+	    font-size: 24px;
+	    line-height: 30px;
+	}
+
+	.banner-info h5 {
+	    font-size: 24px;
+	    line-height: 30px;
+	}
+
+	.logo-group-wrap {
+	    margin-top: 80px;
+	}
+
+	.cat-info-inner h2 {
+    	margin-bottom: 35px;
+	}
+
+	.review-slider-wrap {
+    	margin-top: 50px;
+	}
+
+	.about-ex-bg-info {
+    	max-width: 610px;
+	}
+
+	.map-right h2{
+		margin-bottom: 20px;
+	}
+
+	.map-right h4 {
+    	line-height: normal;
+    	margin-bottom: 20px;
+	}
+
+	.theme-btn {
+	    padding: 0 25px;
+	    font-size: 18px;
+	    height: 55px;
+	    line-height: 60px;
+	}
+
+	.single-testimoninal-inner h4, .group-booking-left h5 {
+	    font-size: 24px;
+	    line-height: 32px;
+	}
+
+	.more-info-box{
+		max-width: 90%;
+	}
+
+	.accordion-button {
+	    font-size: 24px;
+	    line-height: 28px;
+	}
+
+	.review-slider-box h5 {
+	    font-size: 32px;
+	    line-height: 40px;
+	    margin-bottom: 15px;
+	}
+
+	.logo-listing-inner .logo-group-wrap .logo-group-left .logo-flex img{
+		max-width: 240px;
+	}
+
+	.faq-title-inner{
+		padding-top: 35px;
+	}
+}
+
+@media(max-width: 991.50px){
+	.main-menu ul li {
+    	margin: 0 0 0 25px;
+	}
+
+	.logo-group-wrap{
+		gap:30px;
+	}
+
+	.review-slider-box {
+    	margin: 0 15px;
+	}
+
+	.group-booking-right {
+    	padding: 0 20px;
+	}
+
+	.faq-title-piller{
+		overflow: hidden;
+	}
+
+	.faq-title-piller img {
+	    width: 135%;
+	    margin: 0 -200px;
+	    max-width: 135%;
+	}
+}
+
+@media(max-width: 767.50px){
+	h1{
+	    font-size: 26px;
+	    line-height: 30px;
+	}
+
+	h2{
+	    font-size: 24px;
+	    line-height: 28px;
+	}
+
+	h3{
+	    font-size: 23px;
+	    line-height: 28px;
+	}
+
+	h4{
+	    font-size: 22px;
+	    line-height: 26px;
+	    font-weight: normal;
+	}
+
+	h5{
+	    font-size: 20px;
+	    line-height: 24px;
+	}
+
+	h6{
+	    font-size: 18px;
+	    line-height: 24px;
+	}
+
+	section {
+	    position: relative;
+	    clear: both;
+	    padding: 35px 0;
+	}
+
+	.humbarger-menu{
+		display: flex;
+	}
+
+	.main-menu {
+	    position: fixed;
+	    top: 0;
+	    left: 0;
+	    width: 100%;
+	    height: 100vh;
+	    background: var(--theme-color);
+	    z-index: 99;
+	    overflow-y: auto;
+	    padding: 130px 0 100px 0;
+	    display: none;
+	}
+
+	.main-menu.active{
+		display: block;
+	}
+
+	.main-menu ul{
+		display: block;
+	}
+
+	.main-menu ul li {
+    	margin: 0;
+	}
+
+	.main-menu ul li a {
+	    padding: 10px 15px;
+	    display: block;
+	}
+
+	.logo {
+	    margin-right: auto;
+	    position: relative;
+	    z-index: 999;
+	}
+
+	.btn-menu {
+	    position: relative;
+	    z-index: 999;
+	    margin-right: 15px;
+	}
+
+	.btn-menu a {
+	    height: 40px;
+	    line-height: 43px;
+	}
+
+	.hidden-body{
+		overflow: hidden !important;
+	}
+
+	.logo img{
+		max-width: 77px;
+	}
+
+	.lg-logo-main img{
+		max-width: 180px;
+	}
+
+	.banner-info h5 {
+	    font-size: 20px;
+	    line-height: 36px;
+	    margin-bottom: 20px;
+	}
+
+	.banner-info h4 {
+	    font-size: 24px;
+	    line-height: 28px;
+	    margin: 0 0 10px 0;
+	}
+
+	.banner-info h6 {
+	    font-size: 18px;
+	    line-height: 24px;
+	}
+
+	.theme-btn {
+	    padding: 0 15px;
+	    font-size: 18px;
+	    height: 40px;
+	    line-height: 44px;
+	}
+
+	.logo-flex img {
+	    max-width: 180px;
+	    max-height: 40px;
+	}
+
+	.cat-info-inner {
+	    font-size: 16px;
+	    line-height: 26px;
+	}
+
+	.cat-info-inner h2 {
+    	margin-bottom: 25px;
+	}
+
+	.review-inner h4{
+		font-size: 20px;
+		line-height: 28px;
+	}
+
+	.review-slider-init .slick-prev, .review-slider-init .slick-next {
+	    width: 30px;
+	    height: 30px;
+	    background-size: 17px !important;
+	}
+
+	.review-star-wrap img{
+		max-width: 158px;
+	}
+
+	.review-slider-wrap {
+    	margin-top: 30px;
+	}
+
+	.review-slider-inner .slick-dots {
+    	bottom: -50px;
+	}
+
+	.slick-dotted.slick-slider {
+    	margin-bottom: 50px;
+	}
+
+	.review-part{
+		padding-bottom: 0;
+	}
+
+	.about-ex-bg-info h6{
+		font-size: 18px;
+		line-height: 24px;
+		text-align: center;
+	}
+
+	.about-ex-bg-info {
+	    font-size: 14px;
+	    line-height: 20px;
+	    padding: 20px 28px;
+	    max-width: unset;
+	    margin: 0 -12px;
+	    width: auto;
+	    text-align: center;
+	}
+
+	.about-ex-bg-info-wrap{
+		bottom: 0;
+	}
+
+	.about-ex-bg{
+		height: 575px;
+	}
+
+	.map-right h4{
+		font-size: 20px;
+		line-height: 30px;
+	}
+
+	.map-left{
+		margin-top: 36px;
+	}
+
+	.single-testimoninal-inner h4, .group-booking-left h5{
+		line-height: 28px;
+	}
+
+	.single-testimoninal-img, .single-testimoninal-img img {
+	    width: 154px;
+	    height: 154px;
+	}
+
+	.group-booking-left h5{
+		font-size: 18px;
+		line-height: 24px;
+	}
+
+	.group-booking-left h2 {
+    	margin-bottom: 18px;
+	}
+
+	.more-info-box {
+    	max-width: 100%;
+    	padding: 32px;
+	}
+
+	.group-booking-right{
+		padding: 0px;
+		margin-top: 97px;
+	}
+
+	.faq-title-inner h5{
+		font-size: 20px;
+		line-height: 30px;
+	}
+
+	.faq-title.text-center {
+	    min-height: 315px;
+	    display: flex;
+	    align-items: center;
+	    position: relative;
+	    background: var(--gold-color);
+	}
+
+	.faq-title-piller {
+	    overflow: hidden;
+	    position: absolute;
+	    bottom: 0;
+	}
+
+	.faq-title-inner {
+	    padding-top: 0;
+	    height: 100%;
+	    display: flex;
+	    align-items: center;
+	}
+
+	.faq-list-part {
+    	padding-top: 60px;
+    	padding-bottom: 40px;
+	}
+
+	.faq-part{
+		padding-bottom: 0;
+	}
+
+	.gallery-part .main-title {
+    	margin-bottom: 25px;
+	}
+
+	.logo-listing-inner .logo-group-wrap .logo-group-left .logo-flex img {
+	    max-width: 180px;
+	    max-height: 50px;
+	}
+
+	.logo-group-left.mobile-lg-logo img {
+    	max-height: 120px !important;
+	}
+
+	.logo-listing-inner .logo-group-wrap{
+		font-size: 20px;
+		line-height: 30px;
+	}
+
+	.logo-listing-inner .logo-group-wrap .logo-group-left {
+    	margin-bottom: 50px;
+	}
+
+	.slick-dots li {
+	    margin: 0 2px;
+	}
+
+	.review-slider-box {
+	    padding: 40px 40px 70px 40px;
+	}
+
+	.review-star-wrap {
+	    bottom: 25px;
+	}
+
+	.cat-full-wrap{
+		overflow: hidden;
+	}
+
+	.cat-full-wrap img {
+	    width: 200%;
+    	max-width: 200%;
+    	margin: 0px -46%;
+	}
+
+	.banner-info .logo-group-wrap {
+    	display: block;
+	}
+
+	.banner-info .logo-flex{
+		justify-content: center;
+	}
+
+	.logo-group-right {
+	    margin-top: 30px;
+	    margin-bottom: 20px;
+	}
+}
